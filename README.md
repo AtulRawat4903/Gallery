@@ -70,5 +70,5 @@ Imports Tailwind, defines custom keyframe animations (`fadeInUp`, `heartPop`, `s
 
 Clone this repo.
 Inside your project folder, run these commands:
-**npm install**
+**npm install** and
 **npm run dev**
